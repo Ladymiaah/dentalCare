@@ -1,7 +1,7 @@
 import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import HomePage from "./pages/Home";
 import ServicesPage from "./pages/Services";
-import DoctorsPage from "./pages/doctors";
+import DoctorsPage from "./pages/Doctors";
 import PricingPage from "./pages/Pricing";
 import AboutUsPage from "./pages/AboutUs";
 import ContactsPage from "./pages/Contacts";
